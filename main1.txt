@@ -1,9 +1,0 @@
-1)File one created 
-
-2)file two are created
-
-3)Devops,Cloud Data
-
-4)Machine Learning,Data Science
-
-5)Healthcare tech,Finanse
